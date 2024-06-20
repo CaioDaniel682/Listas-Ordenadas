@@ -1,0 +1,46 @@
+<html>
+<head>
+ <title>Criando Listas Ordenadas e Ñ-Ordenadas</title>
+</head>
+ <body style="background-color:black; color:blue">
+   Exemplos:<P>
+   Lista não ordenada<P>
+   <ul>
+   <li>Item 1
+   <li>Item 2
+   <li>Item 3
+   </ul>
+  
+<P>
+   Exemplos:<P>
+   <P>
+   Lista ordenada<P>
+   <ol>
+   <li>Item 1
+   <li>Item 2
+   <li>Item 3
+   </ol>
+   <P>
+  
+Lista Ñ-ordenada <b>alinhada</b><P>
+  <ul>
+  <li>Item 1
+  <li>Item 2 
+  <li>Item 3
+  <ul>  
+    <li>Item A
+    <li>Item B
+    <li>Item C
+    </ul>
+  <ul>
+              <ul>
+                <li>Item 1.1
+                <li>Item 1.2
+                <li>Item 1.3
+                </ul>
+ <li>Item 3
+ </ul>
+  
+  
+</body>
+</html>
